@@ -1,5 +1,5 @@
-# studydemo
-一款适合新手练习的开源项目
+###这是一款非常适合新手练习的开源项目，里面包含了的android开发的一些常用的技术点
+
 ![](https://github.com/lijizhi/studydemo/blob/master/image/1.png) 
 ![](https://github.com/lijizhi/studydemo/blob/master/image/2.png)
 
