@@ -2,14 +2,15 @@
 
 ###先来展示一波效果图吧
 
+
 ![](https://github.com/lijizhi/studydemo/blob/master/image/1.png) 
 ![](https://github.com/lijizhi/studydemo/blob/master/image/2.png)
 
 ![](https://github.com/lijizhi/studydemo/blob/master/image/3.png) 
-![](https://github.com/lijizhi/studydemo/blob/master/image/4.png)
+![](https://github.com/lijizhi/studydemo/blob/master/image/5.png)
 
 
-![](https://github.com/lijizhi/studydemo/blob/master/image/5.png) 
+![](https://github.com/lijizhi/studydemo/blob/master/image/4.png) 
 ![](https://github.com/lijizhi/studydemo/blob/master/image/6.png)
 
 
@@ -24,7 +25,7 @@
 
 
 
-####其次万分感谢以下开源库的作者
+####在此万分感谢以下开源库的作者
    
  - compile 'com.android.support:design:24.2.0'
     > Bmob
