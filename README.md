@@ -25,7 +25,7 @@
 
 
 
-####在此万分感谢以下开源库的作者
+####     在此万分感谢以下开源库的作者
    
  - compile 'com.android.support:design:24.2.0'
     > Bmob
@@ -64,7 +64,7 @@
 
 }
 
-###最后谈谈本项目涉及的主要技术点
+###    最后谈谈本项目涉及的主要技术点
 - 整体项目框架基于 TabLayout+viewPage+Fragment
 - Bmob后端云技术构建用户信息管理系统
 - Rxvolley网络框架进行网络请求
