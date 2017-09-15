@@ -1,6 +1,6 @@
-###这是一款非常适合新手练习的开源项目，里面包含了的android开发的一些常用的技术点，例如Log的封装，Bmob后端云技术，Rxvolley网络框架，picasso多图异步加载，zxing二维码库等等
+   这是一款非常适合新手练习的开源项目，里面包含了的android开发的一些常用的技术点，例如Log的封装，Bmob后端云技术，Rxvolley网络框架，picasso多图异步加载，zxing二维码库等等
 
-###先来展示一波效果图吧
+###  先来展示一波效果图吧
 
 
 ![](https://github.com/lijizhi/studydemo/blob/master/image/1.png) 
